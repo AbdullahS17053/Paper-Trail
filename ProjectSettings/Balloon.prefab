@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5645851204125065175}
   - component: {fileID: -8538677119455075975}
-  - component: {fileID: 5606413224124943005}
+  - component: {fileID: 5606413224124943005}bgbh
   - component: {fileID: 4308776454827635232}
   m_Layer: 0
   m_Name: Balloon
