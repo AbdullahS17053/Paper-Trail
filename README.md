@@ -1,2 +1,2 @@
 # Paper Trail
- MS mini game jam project
+Software Engineering Project
